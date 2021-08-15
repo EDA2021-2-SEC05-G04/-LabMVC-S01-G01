@@ -1,4 +1,4 @@
 -integrantes
 
-- Miguel Corredor
-- Tomas Pardo 
+- Miguel Corredor  mf.corredor40
+- Tomas Pardo      t.pardo
